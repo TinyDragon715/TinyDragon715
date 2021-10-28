@@ -28,6 +28,10 @@
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=tinybabydragon&theme=github&count_private=true" />
 
+<h1 align="center"></h1>
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tinybabydragon&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinybabydragon&layout=compact&theme=chartreuse-dark&langs_count=8" />
+
 ### Hi there 👋
 
 I am confident my ten years of programming experience makes me an exemplary contender for any web/mobile development work.
