@@ -26,6 +26,8 @@
     </tr>
 </table>
 
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=tinybabydragon&theme=github&count_private=true" />
+
 ### Hi there 👋
 
 I am confident my ten years of programming experience makes me an exemplary contender for any web/mobile development work.
