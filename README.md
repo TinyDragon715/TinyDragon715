@@ -1,7 +1,7 @@
 <h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm TinyDragon</h1>
 <p align="left">
 Nice to meet you! 🤗 <br/>
-I'm a professional developer with BlockChain | DApp | DeFi| DAO | Smart Contract | NFT | WAX | HIVE | Solidity | Rust | Web3.js | Ethers.js | MERN | MEAN.
+I'm a professional developer with BlockChain | DApp | DeFi | DAO | Smart Contract | NFT | WAX | HIVE | Solidity | Rust | Web3.js | Ethers.js | MERN | MEAN.
 </p>
 
 
