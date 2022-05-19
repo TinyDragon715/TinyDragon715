@@ -1,60 +1,111 @@
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
-<table>
-    <tr>
-        <td><img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="100" alt="C"></td>
-        <td><img src="https://img.icons8.com/color/2x/html-5.png" width="100" alt="HTML5"></td>
-        <td><img src="https://img.icons8.com/color/2x/css3.png" width="100" alt="CSS3"></td>
-        <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap"></td>
-        <td><img src="https://img.icons8.com/color/2x/sass.png" width="100" alt="Sass"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/javascript.png" width="100" alt="JavaScript"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="100" alt="PHP"></td>
-        <td><img src="https://img.icons8.com/color/2x/typescript.png" width="100" alt="TypeScript"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="100" alt="Docker"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/github.png" width="100" alt="Git"></td>
-    </tr>
-    <tr>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100" alt="Laravel"></td>
-        <td><img src="https://img.icons8.com/color/2x/angularjs.png" width="100" alt="Angular.js"></td>
-        <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="100" alt="Vue.js"></td>
-        <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
-        <td><img src="https://img.icons8.com/color/2x/nodejs.png" width="100" alt="node.js"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/wordpress.png" width="100" alt="WordPress"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100" alt="MySQL"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100" alt="MongoDB"></td>
-        <td><img src="https://img.icons8.com/color/2x/postgreesql.png" width="100" alt="PostgreSQL"></td>
-        <td><img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" width="100" alt="AWS"></td>
-    </tr>
-</table>
+<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm TinyDragon</h1>
+<p align="left">
+Nice to meet you! 🤗 <br/>
+I'm a professional developer with BlockChain | DApp | DeFi| DAO | Smart Contract | NFT | WAX | HIVE | Solidity | Rust | Web3.js | Ethers.js | MERN | MEAN.
+</p>
 
-### Hi there 👋
 
-I am confident my ten years of programming experience makes me an exemplary contender for any web/mobile development work.
 
-As a hard-working Full Stack Developer who has been building web apps for the past 10 years, I continue to love and enjoy creating, learning, and growing with creative industries. Along with a specialty in Full-Stack development with Vue.js, React.js and PHP.
-My development skills also include a high-level understanding of MVC architecture, Custom RestAPI Development, API Integration, API Testing Automation, and Deployment.
 
-Throughout my career, I have had the pleasure of collaborating with a team of talented designers and developers, as well as the opportunity to work as an independent contractor. This has led me to a path of being proactive in my skill levels. Adaptability has become my second nature.
 
-Currently, my focus lies on being an asset, and in collectively working towards an organization's success.
+<h2>Languages & Status</h2>
 
-Development Stacks & Experience:
-* React.js/Next.js/Redux, Vue.js/Nuxt.js/Vuex
-* React Native.
-* Python/Django/Flask, Node.js/Express, RoR, C#/C++
-* MySQL, PostgreSQL, MongoDB, Cloud Firestore/Firebase
-* Web Scraping: Scrapy, Selenium, Beautiful Soup, Crawlera
-* Google Map Service, MapBox, SLC, OpenStreetMap SDK, Yandex Map SDK;
-* Social networks API: Facebook, Twitter, LinkedIn, Instagram, Google+, Tumblr, Foursquare, Flickr, Weibo, Wechat;
-* AWS, Azure, Heroku, DigitalOcean
-* Bluehost, GoDaddy, Cloudflare
-* Docker, Kubernetes, Ansible
-* Github, Gitlab, Bitbucket
-* Jira, Trello
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=tinybabydragon&theme=github&count_private=true" />
+<p align="right">
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=tinydragon715&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
+</p>
 
-<h1 align="center"></h1>
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tinybabydragon&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinybabydragon&layout=compact&theme=chartreuse-dark&langs_count=10" />
-<img height="150" />
-</br>
+
+<div>
+  <a href="https://github.com/tinydragon715">
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="Solidity" src="https://github.com/tinydragon715/tinydragon715/blob/main/icons/solidity.png" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/tinydragon715">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/tinydragon715">
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/tinydragon715">
+    <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">  
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/tinydragon715">
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=flat&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/tinydragon715">  
+    <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">  
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">  
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/tinydragon715">  
+    <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab" />
+  </a>
+  <a href="https://github.com/tinydragon715">  
+    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://github.com/tinydragon715">  
+    <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  </a>
+</div>
